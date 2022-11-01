@@ -3,7 +3,7 @@
 1. This is the source code for  Phonemory: An Audio Memory Game.
 2. This is only for iOS simulator which you can run through xCode.
 
-# Instruction
+## Instruction
 
 1. You will need to first initiliaze an expo react-native application.
 2. From there, import all of the files attached here that are not default.
