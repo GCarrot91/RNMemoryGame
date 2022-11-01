@@ -7,7 +7,7 @@
 
 1. This was made for the 2022 Congressional App Challenge.
 2. This app was developed by Rento Saijo & Cheng-Hsiang Lee.
-3. This app's original concept was made by Raymond Lin.
+3. This app's original concept is  by Raymond Lin.
 
 ## Instruction
 
